@@ -1,0 +1,25 @@
+{
+  "name": "watch-here",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "watch-here": "./bin/cli.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "./node_modules/.bin/prettier --write **/*",
+    "formatjs": "./node_modules/.bin/prettier --write **/*.js"
+  },
+  "author": "MarvinJWendt",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.3"
+  }
+}
