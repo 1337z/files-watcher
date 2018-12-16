@@ -3,11 +3,11 @@
 ## :package: Install
 
 ```command
-npm i -g watch-here
+npm i -g files-watcher
 ```
 
 ## :clipboard: Usage
 
 ```command
-watch-here
+files-watcher
 ```

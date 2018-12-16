@@ -1,9 +1,9 @@
 {
-  "name": "watch-here",
+  "name": "files-watcher",
   "version": "1.0.0",
   "main": "src/index.js",
   "bin": {
-    "watch-here": "./bin/cli.js"
+    "files-watcher": "./bin/cli.js"
   },
   "preferGlobal": true,
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarvinJWendt/watch-here.git"
+    "url": "git+https://github.com/MarvinJWendt/files-watcher.git"
   },
   "keywords": [
     "watch",
@@ -31,8 +31,8 @@
     "file"
   ],
   "bugs": {
-    "url": "https://github.com/MarvinJWendt/watch-here/issues"
+    "url": "https://github.com/MarvinJWendt/files-watcher/issues"
   },
-  "homepage": "https://github.com/MarvinJWendt/watch-here#readme",
+  "homepage": "https://github.com/MarvinJWendt/files-watcher#readme",
   "description": ""
 }
